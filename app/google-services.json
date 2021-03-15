@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377512619785",
+    "project_id": "movieswipe-3d632",
+    "storage_bucket": "movieswipe-3d632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377512619785:android:658a6c7c30433fe374edd8",
+        "android_client_info": {
+          "package_name": "com.project300.movieswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377512619785-cr1cjbu0ej9ua0n8fc5ib6aqjocfljjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project300.movieswipe",
+            "certificate_hash": "214149b74fba130aceff40572fd2d4b7c0ec0031"
+          }
+        },
+        {
+          "client_id": "377512619785-048nqkh61vnj5rsd91stmei2ac252arp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBOYn1HHbi_yUmlcJhvt4-U7508iPowU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377512619785-048nqkh61vnj5rsd91stmei2ac252arp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
